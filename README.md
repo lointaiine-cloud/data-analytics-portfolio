@@ -114,7 +114,7 @@ Statistical analysis of four A/B tests across four conversion metrics. The proje
 
 **Skills:** A/B testing, two-proportion z-test, statistical significance, p-value, conversion rate, effect analysis, Python, Pandas, Statsmodels, Tableau
 
-[View Jupyter Notebook](./AB%Testing%Statistical%Significance%Analysis.ipynb)
+[View Jupyter Notebook](./AB%20Testing%20Statistical%20Significance%20Analysis.ipynb)
 
 ## 📊 Key Competencies
 
