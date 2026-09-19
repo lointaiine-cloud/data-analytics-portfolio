@@ -108,6 +108,14 @@ The analysis also demonstrates how sample size changes when the significance lev
 
 ---
 
+#### 🧪 A/B Testing: Statistical Significance Analysis
+
+Statistical analysis of four A/B tests across four conversion metrics. The project calculates conversion rates for control and test groups, applies a two-proportion z-test, evaluates statistical significance using α = 0.05, measures absolute and relative changes, and exports the results for Tableau visualization.
+
+**Skills:** A/B testing, two-proportion z-test, statistical significance, p-value, conversion rate, effect analysis, Python, Pandas, Statsmodels, Tableau
+
+[View Jupyter Notebook](./AB%Testing%Statistical%Significance%Analysis.ipynb)
+
 ## 📊 Key Competencies
 
 - Data extraction and transformation
