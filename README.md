@@ -24,7 +24,7 @@ Analysis of email campaign performance, including email delivery, opens, visits 
 
 **Skills:** SQL, CTEs, JOINs, aggregations, CASE WHEN, date calculations
 
-[View SQL file](./01_email_campaign_performance.sql)
+[View SQL file](./SQL/01_email_campaign_performance.sql)
 
 ---
 
@@ -33,7 +33,7 @@ Analysis of sales performance using business metrics and aggregated sales data.
 
 **Skills:** SQL, CTEs, JOINs, aggregations, analytical functions
 
-[View SQL file](./02_sales_performance_analysis.sql)
+[View SQL file](./SQL/02_sales_performance_analysis.sql)
 
 ---
 
@@ -42,7 +42,7 @@ Analysis of customer engagement and email activity using customer segmentation a
 
 **Skills:** SQL, CTEs, segmentation, window functions, aggregations
 
-[View SQL file](./03_customer_engagement_analysis.sql)
+[View SQL file](./SQL/03_customer_engagement_analysis.sql)
 
 ---
 
@@ -51,7 +51,7 @@ Analysis of account and email activity by country, including country-level total
 
 **Skills:** SQL, UNION ALL, window functions, DENSE_RANK
 
-[View SQL file](./04_country_performance_ranking.sql)
+[View SQL file](./SQL/04_country_performance_ranking.sql)
 
 ---
 
@@ -62,7 +62,7 @@ Analysis of retail sales performance, including salesperson performance, average
 
 **Skills:** Excel, Pivot Tables, calculations, regression analysis, business analysis
 
-[View Excel file](./Retail_sales_and_shipping_analysis.xlsx)
+[View Excel file](./Excel/Retail_sales_and_shipping_analysis.xlsx)
 
 ---
 
@@ -71,7 +71,9 @@ Comprehensive analysis of sales performance across product categories, countries
 
 **Skills:** Excel, KPIs, Pivot Tables, ABC analysis, geographic analysis, sales analysis
 
-[View Excel file](./sales_performance_and_business_analysis.xlsx)
+[View Excel file](./Excel/sales_performance_and_business_analysis.xlsx)
+
+**Project documentation:** [View project description](./Excel/sales_performance_and_business_analysis_desc.docx)
 
 ---
 
@@ -82,7 +84,7 @@ End-to-end sales analysis in Python, starting with data quality auditing and dat
 
 **Skills:** Python, Pandas, data cleaning, data transformation, visualization, business analysis
 
-[View Jupyter Notebook](./Sales%20Data%20Quality%20and%20Business%20Analysis.ipynb)
+[View Jupyter Notebook](./Python/Sales%20Data%20Quality%20and%20Business%20Analysis.ipynb)
 
 ---
 
@@ -91,7 +93,7 @@ End-to-end analysis of e-commerce sales and user behavior using BigQuery and Pyt
 
 **Skills:** BigQuery, SQL, Python, Pandas, statistics, correlation analysis, hypothesis testing
 
-[View Jupyter Notebook](./E-commerce%20Sales%20and%20User%20Behavior%20Analysis.ipynb)
+[View Jupyter Notebook](./Python/E-commerce%20Sales%20and%20User%20Behavior%20Analysis.ipynb)
 
 ---
 
@@ -104,17 +106,16 @@ The analysis also demonstrates how sample size changes when the significance lev
 
 **Skills:** A/B testing, statistical power, effect size, sample size calculation, Python, Statsmodels
 
-[View Jupyter Notebook](./AB%20Test%20Sample%20Size%20Analysis.ipynb)
+[View Jupyter Notebook](./Statistics/AB%20Test%20Sample%20Size%20Analysis.ipynb)
 
 ---
 
 #### 🧪 A/B Testing: Statistical Significance Analysis
-
 Statistical analysis of four A/B tests across four conversion metrics. The project calculates conversion rates for control and test groups, applies a two-proportion z-test, evaluates statistical significance using α = 0.05, measures absolute and relative changes, and exports the results for Tableau visualization.
 
 **Skills:** A/B testing, two-proportion z-test, statistical significance, p-value, conversion rate, effect analysis, Python, Pandas, Statsmodels, Tableau
 
-[View Jupyter Notebook](./AB%20Testing%20Statistical%20Significance%20Analysis.ipynb)
+[View Jupyter Notebook](./Statistics/AB%20Testing%20Statistical%20Significance%20Analysis.ipynb)
 
 ## 📊 Key Competencies
 
