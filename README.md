@@ -118,20 +118,32 @@ Statistical analysis of four A/B tests across four conversion metrics. The proje
 
 [View Jupyter Notebook](./Python/AB%20Testing%20Statistical%20Significance%20Analysis.ipynb)
 
+### Power BI
+
+#### 📊 Government Expenditure Analysis
+
+Development of an interactive Power BI dashboard analyzing government expenditure across European countries from 2016 to 2024.
+
+The analysis covers cross-country comparisons of government expenditure (% of GDP), spending distribution across COFOG categories, and expenditure trends over time.
+
+**Skills:** Power BI, DAX, data modeling, data visualization, ranking, KPI analysis
+
+[View Power BI Dashboard](./Power%20BI/Government%20Expenditure%20Analysis/)
+
 ## 📊 Key Competencies
 
 - Data extraction and transformation
-- Data quality assessment
-- Exploratory data analysis
+- Data cleaning and quality assessment
+- Exploratory data analysis (EDA)
 - Business and sales analysis
 - Customer and user behavior analysis
 - Statistical hypothesis testing
-- A/B test planning
-- Data visualization
-- KPI analysis
-- Dashboard development
+- A/B test design and analysis
+- KPI analysis and performance measurement
+- Data visualization and dashboard development
+- Data modeling and DAX
 - SQL data analysis
 
 ## 🎯 Portfolio Focus
 
-This portfolio demonstrates the ability to work with data throughout the full analytical process — from data extraction and cleaning to statistical analysis, business insights and visualization.
+This portfolio demonstrates an end-to-end approach to data analytics, covering the entire analytical process — from data extraction, cleaning and transformation to exploratory analysis, statistical testing, business insights and interactive dashboard development.
