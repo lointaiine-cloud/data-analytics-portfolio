@@ -128,7 +128,7 @@ The analysis covers cross-country comparisons of government expenditure (% of GD
 
 **Skills:** Power BI, DAX, data modeling, data visualization, ranking, KPI analysis
 
-[View Power BI Dashboard](./Power%20BI/Government%20Expenditure%20Analysis/)
+[View Power BI Dashboard](./Power%20BI/Government%20Expenditure%20Analysis/зображення_2026-11-15_032624139.png)
 
 ## 📊 Key Competencies
 
