@@ -130,6 +130,18 @@ The analysis covers cross-country comparisons of government expenditure (% of GD
 
 [View Power BI Dashboard](./Power_BI/Government%20Expenditure%20Analysis/)
 
+#### 🌍 Climate Intelligence & Environmental Risk Analytics
+
+Development of an interactive climate analytics dashboard exploring historical climate anomalies across 334 European NUTS2 regions using Copernicus climate data.
+
+The project analyzes 10 climate indicators covering temperature anomalies, extreme heat, precipitation, and drought conditions. It combines historical trend analysis, regional rankings, dynamic KPIs, and an interactive European choropleth map.
+
+Dataset: 574,480 records | Historical coverage: 1940–2025.
+
+Skills: Power BI, DAX, Power Query, climate data analytics, geographic visualization, time series analysis, regional comparative analysis, data modeling.
+
+[View Power BI Dashboard](./Power_BI/Climate_Intelligence_Environmental_Risk_Analytics/)
+
 ## 📊 Key Competencies
 
 - Data extraction and transformation
